@@ -1,4 +1,4 @@
 # Hello-World
-Explorando Git Hub
+Explorando Git Hub.
 
-Esta es una segunda brecha creada para evitar editar el proyecto principal.
+Este repositorio es una prueba para explorar el uso de Git Hub.
